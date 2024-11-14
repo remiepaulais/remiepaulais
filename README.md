@@ -11,7 +11,7 @@
 <h2> About me </h2>
 
 - 🔭 I'm always looking for new ways to learn and grow.
-- 🌱 I’m currently learning Typescript, Next.js and Svelte.
+- 🌱 I’m currently learning Typescript, Next.js and Svelte / SvelteKit.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love ferrets.
 
