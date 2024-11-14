@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Rémi Épaulais and I'm a Front End Developer, from France!</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/Banner Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./images/Banner Light.png">
+  </picture>
+</div>
 
 ###
 
@@ -25,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https//raw.githubusercontent.com/remiepaulais/remiepaulais/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/Snake Light.png">
 <img src="https://raw.githubusercontent.com/remiepaulais/remiepaulais/output/snake.svg" alt="Snake animation" />
-
+</picture>
 ###
