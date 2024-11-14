@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"  />
-
-###
-
 <div align="left">
   <h3>My tech stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
