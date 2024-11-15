@@ -8,7 +8,7 @@
 
 ###
 
-<h2> My Tech Stack 📝 </h2>
+<h2> What I know 📝 </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/skills-dark.svg" height="80">
@@ -20,7 +20,7 @@
 
 ###
 
-<h2> About me 👨🏻‍💻 </h2>
+<h2> Who I am 👨🏻‍💻 </h2>
 
 - 👨🏻‍💻 I'm a Junior Front-End Developer from France.
 - 🔭 I'm always looking for new ways to learn and grow.
