@@ -28,7 +28,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love ferrets.
 
-<h2> 📫 How to reach me </h2>
+<h2> Where to find me 📫</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/remiepaulais/)
 - [GitHub](https://github.com/remiepaulais)
